@@ -1,0 +1,69 @@
+nome,serie,especie,forca,velocidade,inteligencia,energia,resistencia
+Chama,Classico,Pyronita,7,6,5,9,6
+Besta,Classico,Vulpimancer,8,7,3,4,6
+XLR8,Classico,Kinecelerano,5,10,6,4,3
+Massa Cinzenta,Classico,Galvan,1,4,10,2,2
+Quatro Braços,Classico,Tetramando,9,5,5,3,8
+Insectóide,Classico,Lepidopterrano,6,7,5,5,4
+Aquático,Classico,Piscciss Volann,8,8,5,4,6
+Ultra T,Classico,Mecamorfo Galvânico,7,6,7,7,6
+Fantasmático,Classico,Ectonurita,6,7,8,6,4
+Bala de Canhão,Classico,Pelarota Arburiano,9,9,5,5,9
+Diamante,Classico,Petrosapien,9,5,6,6,9
+Cipó Selvagem,Classico,Florauna,7,5,6,5,5
+Blitzwolfer,Classico,Loboan,7,7,4,6,6
+Snare-oh,Classico,Thep Khufan,7,5,5,4,4
+Frankenstrike,Classico,Transylian,9,4,8,8,7
+Glutão,Classico,Gourmand,4,5,5,9,5
+Idem,Classico,Splixson,4,5,5,4,3
+Mega Olhos,Classico,Opticoid,7,5,5,8,6
+Gigante,Classico,To'kustar,10,4,5,8,9
+Cuspidor,Classico,Spheroid,5,4,4,6,5
+Chocante,Classico,Nosedeenian,4,9,5,9,3
+Iguana Ártica,Classico,Polar Manzardill,6,6,5,8,7
+Fogo Fátuo,Força Alienígena,Methanosiano,8,5,6,8,8
+Eco Eco,Força Alienígena,Sonorosian,4,6,6,8,3
+Enormossauro,Força Alienígena,Vaxasauriano,10,5,5,4,8
+Arraia a Jato,Força Alienígena,Aerofíbio,7,9,5,7,5
+Friagem,Força Alienígena,Necrofriggiano,6,7,6,7,5
+Cromático,Força Alienígena,Crystalsapien,8,5,7,9,9
+Macaco Aranha,Força Alienígena,Arachnichimp,6,9,6,4,5
+Artrópode,Força Alienígena,Cerebrocrustacean,5,5,9,7,6
+Gosma,Força Alienígena,Polymorph,6,6,5,5,8
+Alien X,Força Alienígena,Celestialsapien,10,10,10,10,10
+Estrela Polar,Força Alienígena,Biosovortian,7,5,7,8,6
+Rath,Força Alienígena,Appoplexian,9,6,3,4,8
+Nanomech,Supremacia Alienígena,Nanochip,2,8,7,6,2
+Ameaça Aquática,Supremacia Alienígena,Orishan,8,5,6,7,9
+Anfíbio,Supremacia Alienígena,Amperi,5,8,7,8,5
+Armatu,Supremacia Alienígena,Talpaedan,9,5,5,6,8
+Tartagira,Supremacia Alienígena,Geochelone Aerio,7,6,6,6,9
+NRG,Supremacia Alienígena,Prypiatosian-B,9,4,6,9,9
+Acelerado,Supremacia Alienígena,Citrakayah,7,9,5,4,5
+Contra-Tempo,Supremacia Alienígena,Chronosapien,5,3,8,10,6
+ChamAlien,Supremacia Alienígena,Merlinisapien,6,7,5,4,4
+Shocksquatch,Supremacia Alienígena,Gimlinopithecus,8,5,4,8,6
+Besouro,Supremacia Alienígena,Oryctini,8,6,4,6,9
+Diabrete,Supremacia Alienígena,Planchakule,4,6,8,3,3
+Feedback,Omniverse,Conductoid,7,7,6,9,5
+Bloxx,Omniverse,Segmentasapien,7,5,5,5,8
+Gravattack,Omniverse,Galilean,9,4,9,9,8
+Escarábola,Omniverse,Insectoid,4,6,4,8,4
+Crashhopper,Omniverse,Orthopterran,6,9,4,4,5
+Cocorocóide,Omniverse,Gallus Mann,8,8,4,4,6
+Walkatruta,Omniverse,Ickthyperambuloid,2,4,3,1,5
+Pesky Dust,Omniverse,Nemuina,2,7,6,9,2
+Bigotóide,Omniverse,Mole-Stache,6,5,5,4,5
+O Pior,Omniverse,Atrocian,2,2,4,1,10
+Astrodáctilo,Omniverse,Pturbosaurian,6,8,5,7,5
+Espantóide,Omniverse,Desconhecida,6,3,4,8,4
+Bullfrag,Omniverse,Incurseano,7,7,5,4,6
+Atômico,Omniverse,Desconhecida,10,8,7,10,9
+Podrão,Omniverse,Gutrot,6,4,9,7,6
+Vompiro,Omniverse,Vladat,8,7,6,6,6
+Cobra,Classico,Desconhecida,,,,,
+Couraça,Classico,Desconhecida,,,,,
+Areia,Classico,Desconhecida,,,,,
+Chama,Classico,Pyronita,7,6,5,9,6
+Quatro Braços,Classico,Tetramando,9,5,5,3,8
+Vompiro,omniverse,Vladat,8,7,6,6,6
